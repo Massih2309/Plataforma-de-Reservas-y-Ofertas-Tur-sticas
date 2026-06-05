@@ -1,0 +1,7 @@
+frontend/turismo_app/.web/
+frontend/turismo_app/__pycache__/
+frontend/turismo_app/**/__pycache__/
+backend/backend/__pycache__/
+backend/backend/**/__pycache__/
+backend/backend/.env
+*.pyc

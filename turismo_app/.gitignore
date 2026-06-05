@@ -1,0 +1,14 @@
+assets/external/
+.states
+*.db
+
+*.py[cod]
+
+.web
+
+__pycache__/
+landing_page/
+proyecto_turismo/
+__pycache__/
+.web/
+.states/
