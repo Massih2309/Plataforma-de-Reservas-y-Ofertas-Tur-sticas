@@ -4,7 +4,7 @@ from datetime import datetime
 import re
 
 # ← Cambia esta URL cuando despliegues en Render
-API_URL = "http://localhost:8001"
+API_URL = "https://plataforma-de-reservas-y-ofertas-tur-sticas.onrender.com"
 
 def navbar() -> rx.Component:
     return rx.hstack(
